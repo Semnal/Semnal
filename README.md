@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🎓 Ghidul tău USVT
 
-<!--
-**Semnal/Semnal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI educational assistant for students of the  
+**University of Life Sciences “King Mihai I” from Timișoara**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 About the project
+
+Ghidul tău USVT is an AI-powered assistant designed to help students and future applicants quickly find information about:
+
+- admission
+- study programs
+- tuition fees
+- student life
+- university leadership
+- campus services
+
+The assistant uses official university documents to provide clear and accurate answers.
+
+---
+
+## 🌍 Mission
+
+To create a digital guide that makes university information easier to access for every student.
+
+---
+
+## 🚀 Project status
+
+Currently in development.
+
+---
+
+🇷🇴 Built for the students of USVT.
