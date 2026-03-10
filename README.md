@@ -1,5 +1,10 @@
 # 🎓 Ghidul tău USVT
 
+![Status](https://img.shields.io/badge/status-in%20development-orange)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![AI](https://img.shields.io/badge/AI-educational%20assistant-green)
+![University](https://img.shields.io/badge/USVT-Timisoara-darkgreen) 
+
 AI educational assistant for students of the  
 **University of Life Sciences “King Mihai I” from Timișoara**
 
